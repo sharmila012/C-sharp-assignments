@@ -15,6 +15,7 @@ namespace Assignment_1
             question3();
             question4();
             question5();
+            Console.ReadLine();
         }
         static void question1()
         {
